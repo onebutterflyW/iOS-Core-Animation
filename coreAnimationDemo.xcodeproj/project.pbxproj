@@ -7,15 +7,90 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		32282C301E8893360042D678 /* ship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 32282C2F1E8893360042D678 /* ship.jpg */; };
+		32282C341E88AA380042D678 /* AnimationGroupVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32282C331E88AA380042D678 /* AnimationGroupVC.m */; };
+		32282C371E88B67F0042D678 /* TransitionVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32282C361E88B67F0042D678 /* TransitionVC.m */; };
+		32282C3A1E88DC320042D678 /* CancelAnimationVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32282C391E88DC320042D678 /* CancelAnimationVC.m */; };
+		32282C3E1E88E9560042D678 /* PropertyOfCAMediaTimingVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32282C3D1E88E9560042D678 /* PropertyOfCAMediaTimingVC.m */; };
+		32282C401E88F88A0042D678 /* Door.png in Resources */ = {isa = PBXBuildFile; fileRef = 32282C3F1E88F88A0042D678 /* Door.png */; };
+		324996B01E84B98B00EC0AC8 /* CubeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 324996AF1E84B98B00EC0AC8 /* CubeVC.m */; };
+		324996B21E84D4AC00EC0AC8 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 324996B11E84D4AC00EC0AC8 /* GLKit.framework */; };
+		324996B61E84F00500EC0AC8 /* affairVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 324996B51E84F00500EC0AC8 /* affairVC.m */; };
+		324996B91E850BB100EC0AC8 /* layerBehaviorVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 324996B81E850BB100EC0AC8 /* layerBehaviorVC.m */; };
+		324F99BC1E87A0420062EF7B /* CABasicAnimationVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F99BB1E87A0420062EF7B /* CABasicAnimationVC.m */; };
+		324F99BF1E87BAA40062EF7B /* KeyframeAnimationVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F99BE1E87BAA40062EF7B /* KeyframeAnimationVC.m */; };
+		3259A9861E82652100A6010C /* tab_main_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3259A9851E82652100A6010C /* tab_main_pressed.png */; };
+		3259A9891E82664300A6010C /* maskVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3259A9881E82664300A6010C /* maskVC.m */; };
+		326277311E878EEA0083295F /* presentationAndModelVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 326277301E878EEA0083295F /* presentationAndModelVC.m */; };
+		329D42741E835F62003CCC37 /* GroupOpacityVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D42731E835F62003CCC37 /* GroupOpacityVC.m */; };
+		329D427B1E8390FE003CCC37 /* tansformVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D427A1E8390FE003CCC37 /* tansformVC.m */; };
+		329D427D1E8397F7003CCC37 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 329D427C1E8397F7003CCC37 /* 1.jpg */; };
+		329D42801E839812003CCC37 /* minTransformVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D427F1E839812003CCC37 /* minTransformVC.m */; };
+		329D42831E83A7FC003CCC37 /* _DDTransformVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D42821E83A7FC003CCC37 /* _DDTransformVC.m */; };
+		329D42861E83AEDA003CCC37 /* ToushiTouYingVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D42851E83AEDA003CCC37 /* ToushiTouYingVC.m */; };
+		329D42891E83B837003CCC37 /* SublayerTransformVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D42881E83B837003CCC37 /* SublayerTransformVC.m */; };
+		329D428C1E83C047003CCC37 /* bianPingHuaLayerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 329D428B1E83C047003CCC37 /* bianPingHuaLayerVC.m */; };
+		32C5EC331E82560B00A55013 /* shadowPathVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32C5EC321E82560B00A55013 /* shadowPathVC.m */; };
+		32C5EC351E82568400A55013 /* phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 32C5EC341E82568400A55013 /* phone.png */; };
 		32EB7B931E8209DB00EDC73F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7B921E8209DA00EDC73F /* main.m */; };
 		32EB7B961E8209DB00EDC73F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7B951E8209DB00EDC73F /* AppDelegate.m */; };
 		32EB7B991E8209DB00EDC73F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7B981E8209DB00EDC73F /* ViewController.m */; };
 		32EB7B9C1E8209DB00EDC73F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32EB7B9A1E8209DB00EDC73F /* Main.storyboard */; };
 		32EB7B9E1E8209DB00EDC73F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32EB7B9D1E8209DB00EDC73F /* Assets.xcassets */; };
 		32EB7BA11E8209DB00EDC73F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32EB7B9F1E8209DB00EDC73F /* LaunchScreen.storyboard */; };
+		32EB7BAA1E820B3D00EDC73F /* layerTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7BA91E820B3D00EDC73F /* layerTVC.m */; };
+		32EB7BAD1E820FE000EDC73F /* CustomDrawingVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7BAC1E820FE000EDC73F /* CustomDrawingVC.m */; };
+		32EB7BB01E82317C00EDC73F /* CornerRadiusVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7BAF1E82317C00EDC73F /* CornerRadiusVC.m */; };
+		32EB7BB31E823CBE00EDC73F /* jj.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 32EB7BB21E823CBE00EDC73F /* jj.jpg */; };
+		32EB7BB61E82406C00EDC73F /* layerBorderVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7BB51E82406C00EDC73F /* layerBorderVC.m */; };
+		32EB7BB91E8249C600EDC73F /* ShadowOpacityVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 32EB7BB81E8249C600EDC73F /* ShadowOpacityVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		32282C2F1E8893360042D678 /* ship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ship.jpg; sourceTree = "<group>"; };
+		32282C321E88AA380042D678 /* AnimationGroupVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimationGroupVC.h; sourceTree = "<group>"; };
+		32282C331E88AA380042D678 /* AnimationGroupVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimationGroupVC.m; sourceTree = "<group>"; };
+		32282C351E88B67F0042D678 /* TransitionVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TransitionVC.h; sourceTree = "<group>"; };
+		32282C361E88B67F0042D678 /* TransitionVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TransitionVC.m; sourceTree = "<group>"; };
+		32282C381E88DC320042D678 /* CancelAnimationVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CancelAnimationVC.h; sourceTree = "<group>"; };
+		32282C391E88DC320042D678 /* CancelAnimationVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CancelAnimationVC.m; sourceTree = "<group>"; };
+		32282C3C1E88E9560042D678 /* PropertyOfCAMediaTimingVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PropertyOfCAMediaTimingVC.h; sourceTree = "<group>"; };
+		32282C3D1E88E9560042D678 /* PropertyOfCAMediaTimingVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PropertyOfCAMediaTimingVC.m; sourceTree = "<group>"; };
+		32282C3F1E88F88A0042D678 /* Door.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Door.png; sourceTree = "<group>"; };
+		324996AE1E84B98B00EC0AC8 /* CubeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CubeVC.h; sourceTree = "<group>"; };
+		324996AF1E84B98B00EC0AC8 /* CubeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CubeVC.m; sourceTree = "<group>"; };
+		324996B11E84D4AC00EC0AC8 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		324996B41E84F00500EC0AC8 /* affairVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = affairVC.h; sourceTree = "<group>"; };
+		324996B51E84F00500EC0AC8 /* affairVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = affairVC.m; sourceTree = "<group>"; };
+		324996B71E850BB100EC0AC8 /* layerBehaviorVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = layerBehaviorVC.h; sourceTree = "<group>"; };
+		324996B81E850BB100EC0AC8 /* layerBehaviorVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = layerBehaviorVC.m; sourceTree = "<group>"; };
+		324F99BA1E87A0420062EF7B /* CABasicAnimationVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CABasicAnimationVC.h; sourceTree = "<group>"; };
+		324F99BB1E87A0420062EF7B /* CABasicAnimationVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CABasicAnimationVC.m; sourceTree = "<group>"; };
+		324F99BD1E87BAA40062EF7B /* KeyframeAnimationVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyframeAnimationVC.h; sourceTree = "<group>"; };
+		324F99BE1E87BAA40062EF7B /* KeyframeAnimationVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyframeAnimationVC.m; sourceTree = "<group>"; };
+		3259A9851E82652100A6010C /* tab_main_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tab_main_pressed.png; sourceTree = "<group>"; };
+		3259A9871E82664300A6010C /* maskVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = maskVC.h; sourceTree = "<group>"; };
+		3259A9881E82664300A6010C /* maskVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = maskVC.m; sourceTree = "<group>"; };
+		3262772F1E878EEA0083295F /* presentationAndModelVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = presentationAndModelVC.h; sourceTree = "<group>"; };
+		326277301E878EEA0083295F /* presentationAndModelVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = presentationAndModelVC.m; sourceTree = "<group>"; };
+		329D42721E835F62003CCC37 /* GroupOpacityVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupOpacityVC.h; sourceTree = "<group>"; };
+		329D42731E835F62003CCC37 /* GroupOpacityVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroupOpacityVC.m; sourceTree = "<group>"; };
+		329D42791E8390FE003CCC37 /* tansformVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tansformVC.h; sourceTree = "<group>"; };
+		329D427A1E8390FE003CCC37 /* tansformVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tansformVC.m; sourceTree = "<group>"; };
+		329D427C1E8397F7003CCC37 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		329D427E1E839812003CCC37 /* minTransformVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = minTransformVC.h; sourceTree = "<group>"; };
+		329D427F1E839812003CCC37 /* minTransformVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = minTransformVC.m; sourceTree = "<group>"; };
+		329D42811E83A7FC003CCC37 /* _DDTransformVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _DDTransformVC.h; sourceTree = "<group>"; };
+		329D42821E83A7FC003CCC37 /* _DDTransformVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _DDTransformVC.m; sourceTree = "<group>"; };
+		329D42841E83AEDA003CCC37 /* ToushiTouYingVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToushiTouYingVC.h; sourceTree = "<group>"; };
+		329D42851E83AEDA003CCC37 /* ToushiTouYingVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ToushiTouYingVC.m; sourceTree = "<group>"; };
+		329D42871E83B837003CCC37 /* SublayerTransformVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SublayerTransformVC.h; sourceTree = "<group>"; };
+		329D42881E83B837003CCC37 /* SublayerTransformVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SublayerTransformVC.m; sourceTree = "<group>"; };
+		329D428A1E83C047003CCC37 /* bianPingHuaLayerVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bianPingHuaLayerVC.h; sourceTree = "<group>"; };
+		329D428B1E83C047003CCC37 /* bianPingHuaLayerVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = bianPingHuaLayerVC.m; sourceTree = "<group>"; };
+		32C5EC311E82560B00A55013 /* shadowPathVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shadowPathVC.h; sourceTree = "<group>"; };
+		32C5EC321E82560B00A55013 /* shadowPathVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = shadowPathVC.m; sourceTree = "<group>"; };
+		32C5EC341E82568400A55013 /* phone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phone.png; sourceTree = "<group>"; };
 		32EB7B8E1E8209DA00EDC73F /* coreAnimationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = coreAnimationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32EB7B921E8209DA00EDC73F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32EB7B941E8209DB00EDC73F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +101,18 @@
 		32EB7B9D1E8209DB00EDC73F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32EB7BA01E8209DB00EDC73F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		32EB7BA21E8209DB00EDC73F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32EB7BA81E820B3D00EDC73F /* layerTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = layerTVC.h; sourceTree = "<group>"; };
+		32EB7BA91E820B3D00EDC73F /* layerTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = layerTVC.m; sourceTree = "<group>"; };
+		32EB7BAB1E820FE000EDC73F /* CustomDrawingVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomDrawingVC.h; sourceTree = "<group>"; };
+		32EB7BAC1E820FE000EDC73F /* CustomDrawingVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomDrawingVC.m; sourceTree = "<group>"; };
+		32EB7BAE1E82317C00EDC73F /* CornerRadiusVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CornerRadiusVC.h; sourceTree = "<group>"; };
+		32EB7BAF1E82317C00EDC73F /* CornerRadiusVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CornerRadiusVC.m; sourceTree = "<group>"; };
+		32EB7BB11E8231BF00EDC73F /* PrefH.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefH.pch; sourceTree = "<group>"; };
+		32EB7BB21E823CBE00EDC73F /* jj.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jj.jpg; sourceTree = "<group>"; };
+		32EB7BB41E82406C00EDC73F /* layerBorderVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = layerBorderVC.h; sourceTree = "<group>"; };
+		32EB7BB51E82406C00EDC73F /* layerBorderVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = layerBorderVC.m; sourceTree = "<group>"; };
+		32EB7BB71E8249C600EDC73F /* ShadowOpacityVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShadowOpacityVC.h; sourceTree = "<group>"; };
+		32EB7BB81E8249C600EDC73F /* ShadowOpacityVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShadowOpacityVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,15 +120,112 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				324996B21E84D4AC00EC0AC8 /* GLKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		32282C3B1E88E9180042D678 /* 图层时间 */ = {
+			isa = PBXGroup;
+			children = (
+				32282C3C1E88E9560042D678 /* PropertyOfCAMediaTimingVC.h */,
+				32282C3D1E88E9560042D678 /* PropertyOfCAMediaTimingVC.m */,
+			);
+			name = "图层时间";
+			sourceTree = "<group>";
+		};
+		324996B31E84EEC700EC0AC8 /* 隐式动画 */ = {
+			isa = PBXGroup;
+			children = (
+				324996B41E84F00500EC0AC8 /* affairVC.h */,
+				324996B51E84F00500EC0AC8 /* affairVC.m */,
+				324996B71E850BB100EC0AC8 /* layerBehaviorVC.h */,
+				324996B81E850BB100EC0AC8 /* layerBehaviorVC.m */,
+				3262772F1E878EEA0083295F /* presentationAndModelVC.h */,
+				326277301E878EEA0083295F /* presentationAndModelVC.m */,
+			);
+			name = "隐式动画";
+			sourceTree = "<group>";
+		};
+		326277321E879FA30083295F /* 显示动画 */ = {
+			isa = PBXGroup;
+			children = (
+				324F99BA1E87A0420062EF7B /* CABasicAnimationVC.h */,
+				324F99BB1E87A0420062EF7B /* CABasicAnimationVC.m */,
+				324F99BD1E87BAA40062EF7B /* KeyframeAnimationVC.h */,
+				324F99BE1E87BAA40062EF7B /* KeyframeAnimationVC.m */,
+				32282C321E88AA380042D678 /* AnimationGroupVC.h */,
+				32282C331E88AA380042D678 /* AnimationGroupVC.m */,
+				32282C351E88B67F0042D678 /* TransitionVC.h */,
+				32282C361E88B67F0042D678 /* TransitionVC.m */,
+				32282C381E88DC320042D678 /* CancelAnimationVC.h */,
+				32282C391E88DC320042D678 /* CancelAnimationVC.m */,
+			);
+			name = "显示动画";
+			sourceTree = "<group>";
+		};
+		329D42751E838794003CCC37 /* 视觉效果 */ = {
+			isa = PBXGroup;
+			children = (
+				32EB7BAE1E82317C00EDC73F /* CornerRadiusVC.h */,
+				32EB7BAF1E82317C00EDC73F /* CornerRadiusVC.m */,
+				32EB7BB41E82406C00EDC73F /* layerBorderVC.h */,
+				32EB7BB51E82406C00EDC73F /* layerBorderVC.m */,
+				32EB7BB71E8249C600EDC73F /* ShadowOpacityVC.h */,
+				32EB7BB81E8249C600EDC73F /* ShadowOpacityVC.m */,
+				32C5EC311E82560B00A55013 /* shadowPathVC.h */,
+				32C5EC321E82560B00A55013 /* shadowPathVC.m */,
+				3259A9871E82664300A6010C /* maskVC.h */,
+				3259A9881E82664300A6010C /* maskVC.m */,
+				329D42721E835F62003CCC37 /* GroupOpacityVC.h */,
+				329D42731E835F62003CCC37 /* GroupOpacityVC.m */,
+			);
+			name = "视觉效果";
+			sourceTree = "<group>";
+		};
+		329D42761E8387C5003CCC37 /* 图层几何学 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "图层几何学";
+			sourceTree = "<group>";
+		};
+		329D42771E8387D3003CCC37 /* 寄宿图 */ = {
+			isa = PBXGroup;
+			children = (
+				32EB7BAB1E820FE000EDC73F /* CustomDrawingVC.h */,
+				32EB7BAC1E820FE000EDC73F /* CustomDrawingVC.m */,
+			);
+			name = "寄宿图";
+			sourceTree = "<group>";
+		};
+		329D42781E838A37003CCC37 /* 变换 */ = {
+			isa = PBXGroup;
+			children = (
+				329D42791E8390FE003CCC37 /* tansformVC.h */,
+				329D427A1E8390FE003CCC37 /* tansformVC.m */,
+				329D427E1E839812003CCC37 /* minTransformVC.h */,
+				329D427F1E839812003CCC37 /* minTransformVC.m */,
+				329D42811E83A7FC003CCC37 /* _DDTransformVC.h */,
+				329D42821E83A7FC003CCC37 /* _DDTransformVC.m */,
+				329D42841E83AEDA003CCC37 /* ToushiTouYingVC.h */,
+				329D42851E83AEDA003CCC37 /* ToushiTouYingVC.m */,
+				329D42871E83B837003CCC37 /* SublayerTransformVC.h */,
+				329D42881E83B837003CCC37 /* SublayerTransformVC.m */,
+				329D428A1E83C047003CCC37 /* bianPingHuaLayerVC.h */,
+				329D428B1E83C047003CCC37 /* bianPingHuaLayerVC.m */,
+				324996AE1E84B98B00EC0AC8 /* CubeVC.h */,
+				324996AF1E84B98B00EC0AC8 /* CubeVC.m */,
+			);
+			name = "变换";
+			sourceTree = "<group>";
+		};
 		32EB7B851E8209DA00EDC73F = {
 			isa = PBXGroup;
 			children = (
+				324996B11E84D4AC00EC0AC8 /* GLKit.framework */,
 				32EB7B901E8209DA00EDC73F /* coreAnimationDemo */,
 				32EB7B8F1E8209DA00EDC73F /* Products */,
 			);
@@ -62,7 +246,23 @@
 				32EB7B951E8209DB00EDC73F /* AppDelegate.m */,
 				32EB7B971E8209DB00EDC73F /* ViewController.h */,
 				32EB7B981E8209DB00EDC73F /* ViewController.m */,
+				32EB7BA81E820B3D00EDC73F /* layerTVC.h */,
+				32EB7BA91E820B3D00EDC73F /* layerTVC.m */,
+				329D42771E8387D3003CCC37 /* 寄宿图 */,
+				329D42751E838794003CCC37 /* 视觉效果 */,
+				329D42761E8387C5003CCC37 /* 图层几何学 */,
+				329D42781E838A37003CCC37 /* 变换 */,
+				324996B31E84EEC700EC0AC8 /* 隐式动画 */,
+				326277321E879FA30083295F /* 显示动画 */,
+				32282C3B1E88E9180042D678 /* 图层时间 */,
+				32EB7BB21E823CBE00EDC73F /* jj.jpg */,
+				32282C2F1E8893360042D678 /* ship.jpg */,
+				32EB7BB11E8231BF00EDC73F /* PrefH.pch */,
+				32282C3F1E88F88A0042D678 /* Door.png */,
+				3259A9851E82652100A6010C /* tab_main_pressed.png */,
 				32EB7B9A1E8209DB00EDC73F /* Main.storyboard */,
+				329D427C1E8397F7003CCC37 /* 1.jpg */,
+				32C5EC341E82568400A55013 /* phone.png */,
 				32EB7B9D1E8209DB00EDC73F /* Assets.xcassets */,
 				32EB7B9F1E8209DB00EDC73F /* LaunchScreen.storyboard */,
 				32EB7BA21E8209DB00EDC73F /* Info.plist */,
@@ -137,9 +337,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32282C401E88F88A0042D678 /* Door.png in Resources */,
 				32EB7BA11E8209DB00EDC73F /* LaunchScreen.storyboard in Resources */,
+				32EB7BB31E823CBE00EDC73F /* jj.jpg in Resources */,
+				32C5EC351E82568400A55013 /* phone.png in Resources */,
+				32282C301E8893360042D678 /* ship.jpg in Resources */,
+				3259A9861E82652100A6010C /* tab_main_pressed.png in Resources */,
 				32EB7B9E1E8209DB00EDC73F /* Assets.xcassets in Resources */,
 				32EB7B9C1E8209DB00EDC73F /* Main.storyboard in Resources */,
+				329D427D1E8397F7003CCC37 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,9 +356,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32C5EC331E82560B00A55013 /* shadowPathVC.m in Sources */,
+				326277311E878EEA0083295F /* presentationAndModelVC.m in Sources */,
+				32EB7BAD1E820FE000EDC73F /* CustomDrawingVC.m in Sources */,
+				32282C341E88AA380042D678 /* AnimationGroupVC.m in Sources */,
+				324996B61E84F00500EC0AC8 /* affairVC.m in Sources */,
+				324F99BC1E87A0420062EF7B /* CABasicAnimationVC.m in Sources */,
+				32282C371E88B67F0042D678 /* TransitionVC.m in Sources */,
+				329D42741E835F62003CCC37 /* GroupOpacityVC.m in Sources */,
+				324996B01E84B98B00EC0AC8 /* CubeVC.m in Sources */,
+				3259A9891E82664300A6010C /* maskVC.m in Sources */,
 				32EB7B991E8209DB00EDC73F /* ViewController.m in Sources */,
 				32EB7B961E8209DB00EDC73F /* AppDelegate.m in Sources */,
+				329D427B1E8390FE003CCC37 /* tansformVC.m in Sources */,
 				32EB7B931E8209DB00EDC73F /* main.m in Sources */,
+				32282C3E1E88E9560042D678 /* PropertyOfCAMediaTimingVC.m in Sources */,
+				329D42801E839812003CCC37 /* minTransformVC.m in Sources */,
+				324F99BF1E87BAA40062EF7B /* KeyframeAnimationVC.m in Sources */,
+				329D42831E83A7FC003CCC37 /* _DDTransformVC.m in Sources */,
+				32282C3A1E88DC320042D678 /* CancelAnimationVC.m in Sources */,
+				32EB7BB91E8249C600EDC73F /* ShadowOpacityVC.m in Sources */,
+				329D42861E83AEDA003CCC37 /* ToushiTouYingVC.m in Sources */,
+				324996B91E850BB100EC0AC8 /* layerBehaviorVC.m in Sources */,
+				329D42891E83B837003CCC37 /* SublayerTransformVC.m in Sources */,
+				329D428C1E83C047003CCC37 /* bianPingHuaLayerVC.m in Sources */,
+				32EB7BAA1E820B3D00EDC73F /* layerTVC.m in Sources */,
+				32EB7BB61E82406C00EDC73F /* layerBorderVC.m in Sources */,
+				32EB7BB01E82317C00EDC73F /* CornerRadiusVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,7 +492,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/coreAnimationDemo/PrefH.pch";
 				INFOPLIST_FILE = coreAnimationDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = wwantong.ysu.coreAnimationDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -273,7 +506,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/coreAnimationDemo/PrefH.pch";
 				INFOPLIST_FILE = coreAnimationDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = wwantong.ysu.coreAnimationDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -299,6 +535,7 @@
 				32EB7BA71E8209DB00EDC73F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,27 @@
+//
+//  PrefH.pch
+//  coreAnimationDemo
+//
+//  Created by 软件工程系01 on 17/3/22.
+//  Copyright © 2017年 软件工程系01. All rights reserved.
+//
+
+#ifndef PrefH_pch
+#define PrefH_pch
+
+#define  SCREEN_WIDTH   [UIScreen mainScreen].bounds.size.width;
+#define  SCREEN_HEIGHT  [UIScreen mainScreen].bounds.size.height;
+
+
+//获取view的frame（不建议使用）
+#define kGetViewWidth(view)  view.frame.size.width
+#define kGetViewHeight(view) view.frame.size.height
+#define kGetViewX(view)      view.frame.origin.x
+#define kGetViewY(view)      view.frame.origin.y
+
+
+#define RADIANS_TO_DEGREES(X) ((X)/M_PI*180.0)
+
+
+
+#endif /* PrefH_pch */
